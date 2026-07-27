@@ -1,6 +1,7 @@
 # Mixxx DDJ rev1 Documentation
 ```py
-MIXXX VERSION: Release 2.5.6 - UPDATED 06/2026 - by Uriel Deveaud [AK25]
+MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
+UPDATED 06/2026 - by Uriel Deveaud [AK25]
 ```
 Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj rev1 controller. It is a research based project on the open source DJ software MIXXX, its addons and skins.
 
@@ -18,6 +19,14 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 
 - **File browser a.k.a the Library**: this is the main panel
 - **Decks**: Playing turntables, 2 or 4
+
+---
+
+## :radio_button: Infos
+
+* Author: **Uriel Deveaud** - [Kore Teknology](https://github.com/KoreTeknology)
+* License: This project is released under the GPL License.
+* This work is dedicated to all Mixxx users around the world ;)
 
 ---
 
