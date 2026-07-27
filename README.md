@@ -1,4 +1,4 @@
-# Mixxx DDJ rev1 Documentation
+# Mixxx DDJ Rev1 Documentation
 ```py
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25]
