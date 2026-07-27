@@ -7,6 +7,12 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 
 *"I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
+<table>
+<tr>
+<th align="center", width="880">PIONEER DDJ-REV1</th>
+</tr>
+</table>
+
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
 > [!IMPORTANT]
