@@ -5,6 +5,8 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25]
 ```
 Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj rev1 controller. It is a research based project on the open source DJ software MIXXX, its addons and skins.
 
+*"I decided to re-write this addon for several reasons. The first was that the original translation was in Chinese and that some errors appeared due to non-standard characters. The second was that the interface deserved to be redesigned to integrate into my workflow. The third was that I wanted to add functions for animation and the video sequencer. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
 > [!IMPORTANT]
@@ -18,6 +20,8 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 ## :radio_button: Sections and Features
 
 - **File browser a.k.a the Library**: this is the main panel
+  - Folder Navigation and Selection
+  - Files Navigation and Loading
 - **Music Player** (Decks, 2/4)
 - **Mixer** (channels, Main, Headphones, Boost, Filters, EQs)
 - **Audio Effects** (Multi-FX)
@@ -33,6 +37,32 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 - **Midi Mapping for DDJ REV1**: made by AKOI
 - **DDJ REV! Skin**: made by me
 - **This documentation**: PDF File
+
+---
+
+<table>
+<tr>
+<th align="center", width="880">Data Processing</th>
+</tr>
+</table>
+
+<ul>
+      <li><b>Real-time Support</b>
+        <ul>
+          <li>Suggest a serie of optional processes and combos</li>
+          <li>Suggest a serie of optional Shortcuts</li>
+          <li>Suggest a serie of optional parametric objects</li>
+          <li>Suggest a serie of optional Texturing processes</li>
+        </ul>
+      </li>
+      <li><b>Real-time Auto-Correct</b>
+        <ul>
+          <li>Show errors based on 3 main error types*</li>
+        </ul>
+      </li>
+</ul>
+
+<img alt="preview_v135" src="/images/ddjrev1_FXsection.png">
 
 ---
 
