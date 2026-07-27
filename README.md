@@ -15,10 +15,24 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 
 ---
 
-## :radio_button: Mai Features
+## :radio_button: Sections and Features
 
 - **File browser a.k.a the Library**: this is the main panel
-- **Decks**: Playing turntables, 2 or 4
+- **Music Player** (Decks, 2/4)
+- **Mixer** (channels, Main, Headphones, Boost, Filters, EQs)
+- **Audio Effects** (Multi-FX)
+- **Samplers** (Audio Files)
+- **Saved Loops** (Settings)
+- **Scratch Banks** (Audio Files)
+- **Stems** (Audio Files)
+
+---
+
+## :radio_button: Files
+
+- **Midi Mapping for DDJ REV1**: made by AKOI
+- **DDJ REV! Skin**: made by me
+- **This documentation**: PDF File
 
 ---
 
