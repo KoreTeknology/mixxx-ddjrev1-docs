@@ -5,7 +5,7 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25]
 ```
 Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj rev1 controller. It is a research based project on the open source DJ software MIXXX, its addons and skins.
 
-*"I decided to re-write this addon for several reasons. The first was that the original translation was in Chinese and that some errors appeared due to non-standard characters. The second was that the interface deserved to be redesigned to integrate into my workflow. The third was that I wanted to add functions for animation and the video sequencer. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+*"I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
@@ -74,6 +74,6 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 
 ---
 
-[^1]: **MIXXX** is the free and open source DJ software. It supports Any type of Audio files and nearly any external Midi controller. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
+[^1]: **MIXXX** is the free and open source DJ software. It supports nearly any external Midi controller. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
 
 [^2]: Large language models (LLM) are very large deep learning models that are pre-trained on vast amounts of data. The underlying transformer is a set of neural networks that consist of an encoder and a decoder with self-attention capabilities.
