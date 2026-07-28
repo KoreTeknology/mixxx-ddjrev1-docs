@@ -154,6 +154,6 @@ follows:
 
 ---
 
-[^1]: **MIXXX** is the free and open source DJ software. It supports nearly any external Midi controller. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
+[^1]: **MIXXX** is the free and open source DJ software. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
 
 [^2]: **DDJ-REV1** is a Midi DJ controller made by Pioneer. Please, visit the [Pioneer DDJ-REV! product page](https://www.pioneerdj.com/en/product/dj-controllers/ddj-rev1/)
