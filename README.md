@@ -1,12 +1,13 @@
 # MIXXX & DDJ-REV1 Documentation
+
+<img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
+
 ```py
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
 
-*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2].*
-
-*I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES.  
@@ -20,11 +21,9 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 </tr>
 </table>
 
-The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is quite cheap (compared with the middle price market) it costs around 250euros, but it included most of the midi controls you need to perform and have fun.
+The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is quite cheap (compared with the middle price market) it costs around 250euros, but it included most of the midi controls you need to perform and have fun, within a compact size unit.
 
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
-
-<img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/Windows-11-purple" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
 
 ---
 
@@ -34,7 +33,10 @@ The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boa
 </tr>
 </table>
 
-The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a brand-new battle-style layout that’s easy to use and perfect for playing like a pro. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs.
+Mixxx integrates the tools DJs need to perform creative live mixes with digital music files.
+Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx can support your style and techniques of mixing.
+
+Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
 
 ---
 
