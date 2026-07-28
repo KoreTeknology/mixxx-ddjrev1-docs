@@ -4,7 +4,9 @@ MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
 
-*"Hi, this repository is my full documentation using the open source DJ software Mixxx[^1] and the Pioneer ddj rev1 controller. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+*"Hi, this repository is my full documentation using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2].*
+
+*I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES.  
@@ -109,4 +111,4 @@ The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boa
 
 [^1]: **MIXXX** is the free and open source DJ software. It supports nearly any external Midi controller. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
 
-[^2]: Large language models (LLM) are very large deep learning models that are pre-trained on vast amounts of data. The underlying transformer is a set of neural networks that consist of an encoder and a decoder with self-attention capabilities.
+[^2]: **DDJ-REV1** is a Midi DJ controller made by Pioneer. Please, visit the [Pioneer DDJ-REV! product page](https://www.pioneerdj.com/en/product/dj-controllers/ddj-rev1/)
