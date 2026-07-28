@@ -29,6 +29,19 @@ The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boa
 
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
+Here are the main features and sections over the front panel interface:
+
+- **Headphone and Master output levels**
+- **Mixing decks**:
+  - Play/CUE buttons
+  - Speed control (%)
+  - Loop Start and settings
+- **Mixer**:
+  - Channel volumes, Gains and EQs
+  - Cross-fader, 
+  - Filter Knob per channel
+
+
 ---
 
 <table>
@@ -42,7 +55,7 @@ Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx
 
 Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
 
-<img alt="mixxx software" src="/images/captureMixxx_01.png">
+<img alt="mixxx software" src="/images/captureMixxx_02.png">
 
 ---
 
