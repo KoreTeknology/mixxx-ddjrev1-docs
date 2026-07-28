@@ -1,11 +1,10 @@
-# Mixxx DDJ Rev1 Documentation
+# MIXXX & DDJ-REV1 Documentation
 ```py
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25]
 ```
-Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj rev1 controller. It is a research based project on the open source DJ software MIXXX, its addons and skins.
 
-*"I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+*"Hi, this repository is my full documentation using the open source DJ software Mixxx[^1] and the Pioneer ddj rev1 controller. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
 
 <table>
 <tr>
@@ -23,18 +22,32 @@ Hi, this repository is my full documentation using Mixxx[^1] and the Pioneer ddj
 
 ---
 
-## :radio_button: Sections and Features
+<table>
+<tr>
+<th align="center", width="880">SECTIONS & FEATURES</th>
+</tr>
+</table>
 
-- **File browser a.k.a the Library**: this is the main panel
+- **General overview**
+- **File browser a.k.a the Library**:
   - Folder Navigation and Selection
   - Files Navigation and Loading
-- **Music Player** (Decks, 2/4)
+  - File Search Bar
+- **Music Player**:
+  - Transport Buttons
+  - Waveform preview
+  - Track options
+  - Infos
+  - Deck disc
 - **Mixer** (channels, Main, Headphones, Boost, Filters, EQs)
 - **Audio Effects** (Multi-FX)
-- **Samplers** (Audio Files)
-- **Saved Loops** (Settings)
-- **Scratch Banks** (Audio Files)
-- **Stems** (Audio Files)
+  - **Filter per channel**
+  - **FX Slots and Depth value**
+- **Pads Section:**
+  - **Samplers** (Audio Files)
+  - **Saved Loops** (Settings)
+  - **Scratch Banks** (Audio Files)
+  - **Stems** (Audio Files)
 
 ---
 
