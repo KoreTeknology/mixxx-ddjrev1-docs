@@ -47,6 +47,60 @@ Here are the main features and sections over the front panel interface:
   - Cross-fader, 
   - Filter Knob per channel
 
+---
+
+## Utilities mode settings
+
+You can change the following settings in Utilities mode.
+- Fader Start
+- Back Spin Length
+- Crossfader Cut Lag
+- Demo mode
+
+
+### Fader Start
+Press one of the Performance Pads 1 through 3 on the left deck.
+
+- Pad 1 is lit: Fader Start is turned on with Sync mode.
+- Pad 2 is lit: Fader Start is turned on without Sync mode (default).
+- Pad 3 is lit: Fader Start is turned off.
+
+### Back Spin Length
+When using a jog wheel to perform a Back Spin, you can make the Back Spin longer or shorter than the amount you rotate the jog wheel by. You can set the Back Spin Length to short, normal, or long.
+
+Press one of the Performance Pads 5 through 7 on the left deck.
+
+- Pad 5 is lit: Back Spin Length is short.
+- Pad 6 is lit: Back Spin Length is normal (default).
+- Pad 7 is lit: Back Spin Length is long.
+
+### Crossfader Cut Lag
+You can adjust the cut lag (the range where no sound is heard from the
+relevant deck) at both edges of the crossfader.
+You can make adjustments with the setting value (1 through 53).
+• The default setting value is 8.
+Changing the settings
+49 En
+Turn the rotary selector (back), then press it.
+The number of lights that are lit up on the channel level indicators and
+Performance Pads indicates the setting value (1 through 53).
+• The number of lights that are lit up on Performance Pads on the right
+deck: tens place.
+• The sum of the number of lights that are lit up on the channel level
+indicators on channel 1 and 2: ones place.
+E.g. 2 lights on Performance Pads on the right deck, plus 3 lights on
+channel 1, plus 5 lights on channel 2 means the total value is 28 (20
++ 3 + 5 = 28).
+
+### Demo mode
+In normal conditions, if you don’t use any features for 10 minutes, the
+unit will enter Demo mode.
+• When any knob or button on the unit is used during Demo mode,
+Demo mode is canceled.
+Launch Utilities mode and press the [HOT CUE] button on the left
+deck.
+• [HOT CUE] button is lit: Demo mode starts (default).
+• [HOT CUE] button is not lit: Demo mode is switched off.
 
 ---
 
