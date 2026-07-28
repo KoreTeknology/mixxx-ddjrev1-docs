@@ -21,7 +21,11 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 </tr>
 </table>
 
-The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is quite cheap (compared with the middle price market) it costs around 250euros, but it included most of the midi controls you need to perform and have fun, within a compact size unit.
+The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is accessible (cheap compared with the middle price market), it costs around 250 euros in any on-line shops (2025/2026), but it included most of the midi controls you need to perform and have fun, within a compact size unit without external power supply unit. 
+
+- Dimensions (W × D × H) = 526.0 × 255.5 × 59.2 mm
+- Main unit weight = 2.1 kg
+- Power supply = DC 5V - USB
 
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
