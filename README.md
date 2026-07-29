@@ -7,7 +7,7 @@ MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
 
-*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach. And the last because I haven't found a way to get in touch with the developers of the project and offer my collaboration."* :raising_hand:
+*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach and learning curve :raising_hand:
 
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES.  
@@ -21,11 +21,17 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 </tr>
 </table>
 
-The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is accessible (cheap compared with the middle price market), it costs around 250 euros in any on-line shops (2025/2026), but it includes most of the midi controls you need to perform and have fun, within a compact size unit without external power supply unit. 
+The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integrated audio interface. The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is accessible (cheap compared with the middle price market), it costs around 250 euros in any on-line shops (2025/2026), but it includes most of the midi controls you need to perform and have fun, within a compact size unit and without external power supply unit. 
 
 - Dimensions (W × D × H) = 526.0 × 255.5 × 59.2 mm
 - Main unit weight = 2.1 kg
 - Power supply = DC 5V - USB
+- built-in 4-channel sound card with master output.
+- MIC input: 1/4" TR jack.
+- Master output: RCA pin jacks.
+- Headphones: 3.5 mm stereo jack.
+
+- Links: [Manufacturer's product page](https://www.pioneerdj.com/en/product/controller/ddj-rev1/black/overview/l) - [Manufacturer's manual](https://downloads.support.alphatheta.com/manuals/DDJ_REV1_DRI1744B_manual/) - [MIDI message list (PDF)](https://downloads.support.alphatheta.com/software_info/dj-controllers/DDJ-REV1/DDJ-REV1_MIDI_Message_List_E1.pdf)
 
 <img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
 
@@ -41,6 +47,60 @@ Here are the main features and sections over the front panel interface:
   - Cross-fader, 
   - Filter Knob per channel
 
+---
+
+## Utilities mode settings
+
+You can change the following settings in Utilities mode.
+- Fader Start
+- Back Spin Length
+- Crossfader Cut Lag
+- Demo mode
+
+
+### Fader Start
+Press one of the Performance Pads 1 through 3 on the left deck.
+
+- Pad 1 is lit: Fader Start is turned on with Sync mode.
+- Pad 2 is lit: Fader Start is turned on without Sync mode (default).
+- Pad 3 is lit: Fader Start is turned off.
+
+### Back Spin Length
+When using a jog wheel to perform a Back Spin, you can make the Back Spin longer or shorter than the amount you rotate the jog wheel by. You can set the Back Spin Length to short, normal, or long.
+
+Press one of the Performance Pads 5 through 7 on the left deck.
+
+- Pad 5 is lit: Back Spin Length is short.
+- Pad 6 is lit: Back Spin Length is normal (default).
+- Pad 7 is lit: Back Spin Length is long.
+
+### Crossfader Cut Lag
+You can adjust the cut lag (the range where no sound is heard from the
+relevant deck) at both edges of the crossfader.
+You can make adjustments with the setting value (1 through 53).
+• The default setting value is 8.
+Changing the settings
+49 En
+Turn the rotary selector (back), then press it.
+The number of lights that are lit up on the channel level indicators and
+Performance Pads indicates the setting value (1 through 53).
+• The number of lights that are lit up on Performance Pads on the right
+deck: tens place.
+• The sum of the number of lights that are lit up on the channel level
+indicators on channel 1 and 2: ones place.
+E.g. 2 lights on Performance Pads on the right deck, plus 3 lights on
+channel 1, plus 5 lights on channel 2 means the total value is 28 (20
++ 3 + 5 = 28).
+
+### Demo mode
+In normal conditions, if you don’t use any features for 10 minutes, the
+unit will enter Demo mode.
+• When any knob or button on the unit is used during Demo mode,
+Demo mode is canceled.
+Launch Utilities mode and press the [HOT CUE] button on the left
+deck.
+• [HOT CUE] button is lit: Demo mode starts (default).
+• [HOT CUE] button is not lit: Demo mode is switched off.
 
 ---
 
@@ -58,6 +118,24 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 <img alt="mixxx software" src="/images/captureMixxx_02.png">
 
 ---
+
+## Setup
+
+In **Preferences → Sound Hardware**, configure outputs as
+follows:
+
+| Output channel | Assign to |
+|----------------|-----------|
+| 1–2 | Main |
+| 3–4 | Headphones |
+
+| Input Channels | Assign to |
+|----------------|-----------|
+| 1-2 (Input 1) | Microphone 1 |
+
+---
+
+
 
 <table>
 <tr>
@@ -130,6 +208,6 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 
 ---
 
-[^1]: **MIXXX** is the free and open source DJ software. It supports nearly any external Midi controller. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
+[^1]: **MIXXX** is the free and open source DJ software. Please, visit the [Mixxx Github page](https://github.com/mixxxdj/mixxx).
 
 [^2]: **DDJ-REV1** is a Midi DJ controller made by Pioneer. Please, visit the [Pioneer DDJ-REV! product page](https://www.pioneerdj.com/en/product/dj-controllers/ddj-rev1/)
