@@ -26,10 +26,10 @@ The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integ
 - Dimensions (W × D × H) = 526.0 × 255.5 × 59.2 mm
 - Main unit weight = 2.1 kg
 - Power supply = DC 5V - USB
-- built-in 4-channel sound card with master output.
-- MIC input: 1/4" TR jack.
-- Master output: RCA pin jacks.
-- Headphones: 3.5 mm stereo jack.
+- built-in 4-channel sound card with:
+  - MIC input: 1/4" TR jack.
+  - Master output: RCA pin jacks.
+  - Headphones: 3.5 mm stereo jack.
 - **OS Compatibility: Windows/Mac/Linux**
 
 - Links: [Manufacturer's product page](https://www.pioneerdj.com/en/product/controller/ddj-rev1/black/overview/l) - [Manufacturer's manual](https://downloads.support.alphatheta.com/manuals/DDJ_REV1_DRI1744B_manual/) - [MIDI message list (PDF)](https://downloads.support.alphatheta.com/software_info/dj-controllers/DDJ-REV1/DDJ-REV1_MIDI_Message_List_E1.pdf)
@@ -65,84 +65,11 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 
 ---
 
-## Setup
-
-In **Preferences → Sound Hardware**, configure outputs as
-follows:
-
-| Output channel | Assign to |
-|----------------|-----------|
-| 1–2 | Main |
-| 3–4 | Headphones |
-
-| Input Channels | Assign to |
-|----------------|-----------|
-| 1-2 (Input 1) | Microphone 1 |
-
----
-
-
-
-<table>
-<tr>
-<th align="center", width="880">SECTIONS & FEATURES</th>
-</tr>
-</table>
-
-- **General overview**
-- **File browser a.k.a the Library**:
-  - Folder Navigation and Selection
-  - Files Navigation and Loading
-  - File Search Bar
-- **Music Player**:
-  - Transport Buttons
-  - Waveform preview
-  - Track options
-  - Infos
-  - Deck disc
-- **Mixer** (channels, Main, Headphones, Boost, Filters, EQs)
-- **Audio Effects** (Multi-FX)
-  - **Filter per channel**
-  - **FX Slots and Depth value**
-- **Pads Section:**
-  - **Samplers** (Audio Files)
-  - **Saved Loops** (Settings)
-  - **Scratch Banks** (Audio Files)
-  - **Stems** (Audio Files)
-
----
-
 ## :radio_button: Files
 
 - **Midi Mapping for DDJ REV1**: made by AKOI
 - **DDJ REV! Skin**: made by me
 - **This documentation**: PDF File
-
----
-
-<table>
-<tr>
-<th align="center", width="880">Data Processing</th>
-</tr>
-</table>
-
-<ul>
-      <li><b>Real-time Support</b>
-        <ul>
-          <li>Suggest a serie of optional processes and combos</li>
-          <li>Suggest a serie of optional Shortcuts</li>
-          <li>Suggest a serie of optional parametric objects</li>
-          <li>Suggest a serie of optional Texturing processes</li>
-        </ul>
-      </li>
-      <li><b>Real-time Auto-Correct</b>
-        <ul>
-          <li>Show errors based on 3 main error types*</li>
-        </ul>
-      </li>
-</ul>
-
-<img alt="preview_v135" src="/images/ddjrev1_FXsection.png">
 
 ---
 
