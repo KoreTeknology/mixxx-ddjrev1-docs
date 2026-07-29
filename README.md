@@ -62,6 +62,10 @@ Whether you are a new DJ with just a laptop or an experienced turntablist, Mixxx
 
 Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
 
+- **OS Compatibility: Windows/Mac/Linux**
+
+- Links: [Official Mixxx page](https://mixxx.org/) - [Mixxx Github page](https://github.com/mixxxdj/mixxx) - [Mixxx Community Forum](https://mixxx.discourse.group/)
+
 <img alt="mixxx software" src="/images/captureMixxx_02.png">
 
 ---
