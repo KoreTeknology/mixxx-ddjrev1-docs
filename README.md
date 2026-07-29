@@ -37,17 +37,7 @@ The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integ
 
 <img alt="ddjrev1_top" src="/images/ddj-rev1_colorBig_v2.png">
 
-Here are the main features and sections over the front panel interface:
-
-- **Headphone and Master output levels**
-- **Mixing decks**:
-  - Play/CUE buttons
-  - Speed control (%)
-  - Loop Start and settings
-- **Mixer**:
-  - Channel volumes, Gains and EQs
-  - Cross-fader, 
-  - Filter Knob per channel
+Additionally, the unit operates while connected to a computer. In my case, I use a mini-PC running the latest Ubuntu Linux distribution. This mini-PC is equipped with an i5 processor, 32 GB of RAM, and a 1 TB internal drive.
 
 ---
 
