@@ -14,6 +14,12 @@ Follow my complete documentation into the [Wiki pages](https://github.com/KoreTe
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES. PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
 
+### The Components for this project:
+
+- Pioneer DDJ-REV1 USB/Midi Controller + USB cable
+- Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen
+- Mixxx software + Midi mapping files + Skin files
+
 ---
 
 <table>
@@ -60,11 +66,12 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 
 ---
 
-## :radio_button: Files
+## :radio_button: Files in the package
 
 - **Midi Mapping for DDJ REV1**: made by AKOI
 - **DDJ REV! Skin**: made by me
 - **This documentation**: PDF File
+- **Full Documentation & tutorials**: PDF File
 
 ---
 
