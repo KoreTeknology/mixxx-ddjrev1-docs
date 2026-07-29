@@ -6,16 +6,13 @@
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
+*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach and learning curve.* :raising_hand:  
 
-*"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach and learning curve :raising_hand:
-
-> [!NOTE]
-> You´ll find my complete documentation into the [Wiki page](https://github.com/KoreTeknology/mixxx-ddjrev1-docs/wiki)
+Follow my complete documentation into the [Wiki pages](https://github.com/KoreTeknology/mixxx-ddjrev1-docs/wiki)
 
 
 > [!IMPORTANT]
-> THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES.  
-> PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
+> THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE OR DISTRIBUTED OVER MULTIPLE PAGES. PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
 
 ---
 
