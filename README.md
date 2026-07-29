@@ -21,7 +21,7 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 </tr>
 </table>
 
-The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integrated audio interface. The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this 2-channel DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is accessible (cheap compared with the middle price market), it costs around 250 euros in any on-line shops (2025/2026), but it includes most of the midi controls you need to perform and have fun, within a compact size unit and without external power supply unit. 
+The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integrated audio interface. The DDJ-REV1 matches perfectly with the free and open-source MIXXX software, boasting a battle-style layout. The design of this DJ controller emulates a professional DJM-S mixer + PLX turntable setup, including specialized features for open-format and scratch DJs. The product is accessible (cheap compared with the middle price market), it costs around 250 euros in any on-line shops (2025/2026), but it includes most of the midi controls you need to perform and have fun, within a compact size unit and without external power supply.
 
 - Dimensions (W × D × H) = 526.0 × 255.5 × 59.2 mm
 - Main unit weight = 2.1 kg
@@ -30,10 +30,11 @@ The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integ
 - MIC input: 1/4" TR jack.
 - Master output: RCA pin jacks.
 - Headphones: 3.5 mm stereo jack.
+- **OS Compatibility: Windows/Mac/Linux**
 
 - Links: [Manufacturer's product page](https://www.pioneerdj.com/en/product/controller/ddj-rev1/black/overview/l) - [Manufacturer's manual](https://downloads.support.alphatheta.com/manuals/DDJ_REV1_DRI1744B_manual/) - [MIDI message list (PDF)](https://downloads.support.alphatheta.com/software_info/dj-controllers/DDJ-REV1/DDJ-REV1_MIDI_Message_List_E1.pdf)
 
-<img alt="ddjrev1_top" src="/images/ddjrev1_hardwareGui.png">
+<img alt="ddjrev1_top" src="/images/ddj-rev1_colorBig_v2.png">
 
 Here are the main features and sections over the front panel interface:
 
