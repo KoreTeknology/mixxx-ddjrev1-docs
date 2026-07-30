@@ -1,11 +1,12 @@
-# MIXXX & DDJ-REV1 Documentation
-
-<img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
-
 ```py
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
+
+# MIXXX & DDJ-REV1 Documentation
+
+<img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
+
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE.  
 > PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
