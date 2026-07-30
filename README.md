@@ -26,11 +26,12 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 ### Tutorials & Workout
 
-- Setting up ...
-- Library management & 
-- Backup and restore
-- Fx and Filters
-- 
+- Setup & Config files
+- Library management & Playlists
+- Database, Backup and Restore
+- Fx and Filter controls
+- Loops & Cue Points
+- Pad-sets & extra features
 
 ---
 
