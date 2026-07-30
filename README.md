@@ -83,7 +83,8 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 ## :radio_button: Files in the package
 
 - **Custom Midi Mapping set for DDJ REV1**: Original release by AKOI
-- **DDJ REV! Skin**: made by me
+- **Custom DDJ REV! Protector Skin**: made by me
+- **Custom DDJ REV! Mixxx Skin**: made by me
 - **This documentation**: PDF File
 - **Full Documentation & tutorials**: PDF File
 
