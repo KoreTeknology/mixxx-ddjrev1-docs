@@ -16,7 +16,7 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 ---
 
-### The Components for this project:
+### The components needed for this project:
 
 - Pioneer DDJ-REV1 USB/Midi Controller + USB cable
 - Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen
@@ -24,14 +24,11 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 ---
 
-### Tutorials & Workout
+## Tutorials & Workout
 
-- Setup & Config files
-- Library management & Playlists
-- Database, Backup and Restore
-- Fx and Filter controls
-- Loops & Cue Points
-- Pad-sets & extra features
+- [**Part. 1:** Setup, Config files, Library & Playlists, SQL Database, Backup and Restore]()
+- [**Part. 2:** Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls]()
+- [**Part. 3:** Pad-sets & extra features]()
 
 ---
 
