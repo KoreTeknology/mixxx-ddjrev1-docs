@@ -20,7 +20,7 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 - Pioneer DDJ-REV1 USB/Midi Controller + USB cable
 - Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen
-- Mixxx software + Midi mapping files + Skin files
+- Mixxx software + Midi mapping files + Skin files + Fx Config files
 
 ---
 
