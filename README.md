@@ -26,10 +26,10 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 ## Tutorials & Workout
 
-- **Part. 1:** [Setup, Config files, Library & Playlists, SQL Database, Backup and Restore](tutorials/Part_1.md)
-- **Part. 2:** [Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls](tutorials/Part_2.md)
-- **Part. 3:** [Pad-sets, samplers, scratch banks & extra features](tutorials/Part_3.md)
-- **Part. 4:** [Mix Techniques, Dj combos, Modding](tutorials/Part_4.md)
+- **Part 1:** [Setup, Config files, Library & Playlists, SQL Database, Backup and Restore](tutorials/Part_1.md)
+- **Part 2:** [Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls](tutorials/Part_2.md)
+- **Part 3:** [Pad-sets, samplers, scratch banks & extra features](tutorials/Part_3.md)
+- **Part 4:** [Mix Techniques, Dj combos, Modding](tutorials/Part_4.md)
 
 ---
 
