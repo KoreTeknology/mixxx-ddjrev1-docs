@@ -28,7 +28,7 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 - [**Part. 1:** Setup, Config files, Library & Playlists, SQL Database, Backup and Restore]()
 - [**Part. 2:** Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls]()
-- [**Part. 3:** Pad-sets & extra features]()
+- [**Part. 3:** Pad-sets, samplers, scratch banks & extra features]()
 
 ---
 
