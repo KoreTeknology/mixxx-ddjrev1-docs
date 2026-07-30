@@ -6,6 +6,8 @@ In this section, we are going to look at the pre-requisites and operations neede
 
 ## Advanced Setup
 
+<img alt="ddjrev1_top" src="../images/ddjrev1_hardwareGui.png">
+
 The first settings to look after is the controller setting interface itself, it is called "Utilities Mode". You can change the following settings in this mode:
 1. Fader Start
 2. Back Spin Length
