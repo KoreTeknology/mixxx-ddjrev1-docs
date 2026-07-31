@@ -1,9 +1,19 @@
-# Tutorial Serie: Part 1
-
 ```py
 MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 ```
+
+<!-- NEW MOD PICTURE SWAP -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../images/doc_header_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../images/doc_header_light.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="../images/ddj-rev1_colorBig_v2.png">
+</picture>
+
+# Tutorial Serie: Part 1
+
+
+
 
 ## Initial Setup
 
@@ -16,7 +26,7 @@ In this section, we are going to look at the pre-requisites and operations neede
 </table>
 
 > [!IMPORTANT]
-> The first settings to look after is the controller setting interface itself, it is called "Utilities Mode". You can change the following settings in this mode. To enter Utilities mode on the Pioneer DJ DDJ-REV1, disconnect the USB cable from your computer, then plug it back in **while holding down the CUE and PLAY/PAUSE buttons on the left deck**.
+> The first settings to look after is the controller setting interface itself, it is called "Utilities Mode". You can change the following settings in this mode. To enter Utilities mode on the Pioneer DJ DDJ-REV1, disconnect the USB cable from your computer, then plug it back in **while holding down the CUE and PLAY/PAUSE buttons on the left deck**. After any change, you want to wait up to 2sec until it saves the settings, the leds are flashing to indicate its process, don´t unplug before the end of the save setting process or your changes may be lost.
 
 1. Fader Start
 2. Back Spin Length

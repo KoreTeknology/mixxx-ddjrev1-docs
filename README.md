@@ -9,6 +9,14 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 
 <img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
 
+<!-- NEW MOD PICTURE SWAP -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/doc_header_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/doc_header_light.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/ddj-rev1_colorBig_v2.png">
+</picture>
+
+
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE.  
 > PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
