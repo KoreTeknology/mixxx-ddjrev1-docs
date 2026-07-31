@@ -2,7 +2,7 @@
 MIXXX VERSION: Windows/Linux Release 2.5.6 / 2.6
 PIONEER DDJ-REV1 Firmware: 1.0
 UPDATED: 06/2026 - Languages: EN  
-by Uriel Deveaud [AK25 / NR] 
+by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY] 
 ```
 
 # MIXXX & DDJ-REV1 Documentation
