@@ -10,8 +10,8 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="../images/ddj-rev1_colorBig_v2.png">
 </picture>
 
-# Tutorial Serie: Part 6 - The Library
+# Tutorial Serie: Part 6 - Mix Techniques, Dj combos
 
-## Music Files
+## Mix Techniques
 
 In this section, we are going
