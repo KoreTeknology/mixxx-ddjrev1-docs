@@ -98,6 +98,8 @@ Launch Utilities mode and press the [HOT CUE] button on the left deck.
 
 ### Local Music Store
 
+The key of success for any DJs, is to own a clean and organized library.
+
 ### Metadata
 
 ## SQL Database, Backup and Restore

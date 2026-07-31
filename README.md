@@ -38,7 +38,7 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 ## Tutorials & Workout
 
 - **Part 1:** [The Setup, configuration and preferences,](tutorials/tutorial_part_1.md)
-- **Part 2:** [The Library, Metadata and Playlists, options](tutorials/tutorial_part_2.md)
+- **Part 2:** [The Library, Metadata, crates and Playlists](tutorials/tutorial_part_2.md)
 - **Part 3:** [The Decks, speed control and Bpm, Cue Points](tutorials/tutorial_part_3.md)
 - **Part 4:** [The Mixer, Gains & EQs, Fx & Filter controls](tutorials/tutorial_part_4.md)
 - **Part 5:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)
@@ -67,7 +67,7 @@ The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integ
 
 <img alt="ddjrev1_top" src="/images/ddj-rev1_colorBig_v2.png">
 
-Additionally, the unit operates while connected to a computer. In my case, I use a mini-PC running the latest Ubuntu Linux distribution. This mini-PC is equipped with an i5 processor, 32 GB of RAM, and a 1 TB internal drive.
+Additionally, the unit operates while connected to a computer. In my case, I use a mini-PC running a dual boot system, including the latest Ubuntu Linux distribution and the last Win11 release. This mini-PC is equipped with an i5 processor, 16 GB of RAM, and a 1 TB internal drive.
 
 ---
 
