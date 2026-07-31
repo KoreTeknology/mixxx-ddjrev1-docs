@@ -10,10 +10,7 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="../images/ddj-rev1_colorBig_v2.png">
 </picture>
 
-# Tutorial Serie: Part 1
-
-
-
+# Tutorial Serie: Part 2
 
 ## Initial Setup
 
