@@ -41,8 +41,9 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 - **Part 2:** [The Library, Metadata, crates and Playlists](tutorials/tutorial_part_2.md)
 - **Part 3:** [The Decks, speed control and Bpm, Cue Points](tutorials/tutorial_part_3.md)
 - **Part 4:** [The Mixer, Gains & EQs, Fx & Filter controls](tutorials/tutorial_part_4.md)
-- **Part 5:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)
-- **Part 6:** [Mix Techniques, Dj combos, Modding](tutorials/tutorial_part_6.md)
+- **Part 5:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)  
+- **Part 6:** [Mix Techniques, Dj combos](tutorials/tutorial_part_6.md)
+- **Part 7:** [Hardware Modding, Transport](tutorials/tutorial_part_7.md)
 
 ---
 
