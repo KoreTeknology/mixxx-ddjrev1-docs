@@ -67,7 +67,7 @@ The Pioneer DDJ-REV1 is a four-channel battle-style USB controller with an integ
 
 <img alt="ddjrev1_top" src="/images/ddj-rev1_colorBig_v2.png">
 
-Additionally, the unit operates while connected to a computer. In my case, I use a mini-PC running the latest Ubuntu Linux distribution. This mini-PC is equipped with an i5 processor, 32 GB of RAM, and a 1 TB internal drive.
+Additionally, the unit operates while connected to a computer. In my case, I use a mini-PC running a dual boot system, including the latest Ubuntu Linux distribution and the last Win11 release. This mini-PC is equipped with an i5 processor, 16 GB of RAM, and a 1 TB internal drive.
 
 ---
 
