@@ -23,15 +23,15 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 
 *"Hi, this repository is my full documentation and archives, using the open source DJ software **Mixxx**[^1] and the **Pioneer ddj rev1** midi controller[^2]. I decided to write this documentation for several reasons. The first was that the main documentation is not enough specific for the use of this controller. The second was that all the files available for this controllers are existing in multiple versions and over various websites and repositories. The third was that I wanted to get my own documentation with my personal approach and learning curve.* :raising_hand:  
 
-Follow my complete documentation and tutorials into the [Wiki pages](https://github.com/KoreTeknology/mixxx-ddjrev1-docs/wiki)
+:small_blue_diamond: Follow my complete documentation and tutorials into the [Wiki pages](https://github.com/KoreTeknology/mixxx-ddjrev1-docs/wiki)
 
 ---
 
 ### The components needed for this project:
 
-- Pioneer DDJ-REV1 USB/Midi Controller + USB cable
-- Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen
-- Mixxx software + Midi mapping files + Skin files + Fx Config files
+:arrow_right: Pioneer DDJ-REV1 USB/Midi Controller + USB cable  
+:arrow_right: Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen  
+:arrow_right: Mixxx software + Midi mapping files + Skin files + Fx Config files  
 
 ---
 
