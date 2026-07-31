@@ -40,9 +40,9 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 - **Part 1:** [Setup, configuration and preferences,](tutorials/tutorial_part_1.md)
 - **Part 2:** [Library, Metadata and Playlists, options](tutorials/tutorial_part_2.md)
 - **Part 3:** [Decks, speed control and Bpm, Cue Points](tutorials/tutorial_part_3.md)
-- **Part 2:** [Mixer, Gains & EQs, Fx & Filter controls](tutorials/tutorial_part_4.md)
-- **Part 3:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)
-- **Part 4:** [Mix Techniques, Dj combos, Modding](tutorials/tutorial_part_6.md)
+- **Part 4:** [Mixer, Gains & EQs, Fx & Filter controls](tutorials/tutorial_part_4.md)
+- **Part 5:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)
+- **Part 6:** [Mix Techniques, Dj combos, Modding](tutorials/tutorial_part_6.md)
 
 ---
 
