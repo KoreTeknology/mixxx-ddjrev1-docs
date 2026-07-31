@@ -19,6 +19,9 @@ In this section, we are going to look at the audio and music files stored into y
 > [!IMPORTANT]
 > You want to edit any music files to ensure a complete integration with your DJ software (in this case Mixxx but with any others). You WANT to edit the file name too! Regardless if the file comes from a recorder or any other source, you must choose a naming convention. In my case, this is the template: **[RecordName-Year-Side-Artist-TrackTitle].mp3**. About the cover images (displayed in Mixxx interface), choose a high quality graphic with minimum resolution of 700 x 700px.
 
+<img alt="ddjrev1_top" src="/images/captureMixxx_library_1.png">
+
+
 ## Metadata
 
 Editing metadata can be labourious, because you need to edit manually each files, but once done, the track is ready to be played! Metadata is displayed in Mixxx in large panel. A single left column is showing a list of folders, the right side shows the list of tracks with their data in multiple columns. Columns can be shown independantly.
