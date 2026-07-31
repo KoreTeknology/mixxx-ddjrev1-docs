@@ -25,6 +25,13 @@ In this section, we are going to look at the pre-requisites and operations neede
 
 <img alt="ddjrev1_top" src="../images/ddjrev1_hardwareGui.png">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../images/ddjrev1_hardwareGui.png">
+  <source media="(prefers-color-scheme: light)" srcset="../images/ddj-rev1_colorBig_v2.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="../images/ddj-rev1_colorBig_v2.png">
+</picture>
+
+
 ### 1. Fader Start
 Press one of the Performance Pads 1 through 3 on the left deck:
 - Pad 1 is lit: Fader Start is turned on with Sync mode.
