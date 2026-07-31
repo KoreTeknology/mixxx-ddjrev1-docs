@@ -17,7 +17,7 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 
 ## Initial Setup
 
-In this section, we are going to look at the pre-requisites and operations needed in order to use the combo DDJ-Rev1/Mixxx. Let´s turn on each component and start by connecting each devices physically. We are using 2 AC plugs as power supply unit, one is for the screen, the other for the mini-pc. Then we are connecting the HDMI plug to the screen and mini-pc and the USB cable for the midi controller. That´s all!
+In this section, we are going to look at the pre-requisites and operations needed in order to use the combo DDJ-Rev1/Mixxx. Let´s turn on each component and start by connecting each devices physically. We are using 2 AC plugs as power supply unit, one is for the screen, the other for the mini-pc. Then we are connecting the HDMI plug to the screen and mini-pc and the USB cable for the midi controller. That´s all!  
 
 <table>
 <tr>
@@ -75,11 +75,11 @@ Launch Utilities mode and press the [HOT CUE] button on the left deck.
 
 <table>
 <tr>
-<th align="center", width="880">Config files</th>
+<th align="center", width="880">Mixxx Settings and Preferences</th>
 </tr>
 </table>
 
-### Save your audio config file
+### Audio Settings
 
 <table>
 <tr>
