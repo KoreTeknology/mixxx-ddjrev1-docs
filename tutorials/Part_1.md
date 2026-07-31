@@ -15,7 +15,9 @@ In this section, we are going to look at the pre-requisites and operations neede
 </tr>
 </table>
 
-The first settings to look after is the controller setting interface itself, it is called "Utilities Mode". You can change the following settings in this mode. To enter Utilities mode on the Pioneer DJ DDJ-REV1, disconnect the USB cable from your computer, then plug it back in while holding down the CUE and PLAY/PAUSE buttons on the left deck:
+> [!IMPORTANT]
+> The first settings to look after is the controller setting interface itself, it is called "Utilities Mode". You can change the following settings in this mode. To enter Utilities mode on the Pioneer DJ DDJ-REV1, disconnect the USB cable from your computer, then plug it back in **while holding down the CUE and PLAY/PAUSE buttons on the left deck**.
+
 1. Fader Start
 2. Back Spin Length
 3. Crossfader Cut Lag
@@ -28,6 +30,31 @@ Press one of the Performance Pads 1 through 3 on the left deck:
 - Pad 1 is lit: Fader Start is turned on with Sync mode.
 - Pad 2 is lit: Fader Start is turned on without Sync mode (default).
 - Pad 3 is lit: Fader Start is turned off.
+
+### 2. Back Spin Length
+When using a jog wheel to perform a Back Spin, you can make the Back Spin longer or shorter than the amount you rotate the jog wheel by.
+You can set the Back Spin Length to short, normal, or long. Press one of the Performance Pads 5 through 7 on the left deck.
+- Pad 5 is lit: Back Spin Length is short.
+- Pad 6 is lit: Back Spin Length is normal (default).
+- Pad 7 is lit: Back Spin Length is long.
+
+### 3. Crossfader Cut Lag
+You can adjust the cut lag (the range where no sound is heard from the relevant deck) at both edges of the crossfader. You can make adjustments with the setting value (1 through 53).
+- The default setting value is 8.
+
+Turn the rotary selector (back), then press it. The number of lights that are lit up on the channel level indicators and Performance Pads indicates the setting value (1 through 53).
+- The number of lights that are lit up on Performance Pads on the right deck: tens place.
+- The sum of the number of lights that are lit up on the channel level indicators on channel 1 and 2: ones place.
+
+E.g. 2 lights on Performance Pads on the right deck, plus 3 lights on channel 1, plus 5 lights on channel 2 means the total value is 28 (20 + 3 + 5 = 28).
+
+### 4. Demo mode
+In normal conditions, if you don’t use any features for 10 minutes, the unit will enter Demo mode. When any knob or button on the unit is used during Demo mode, Demo mode is canceled.
+Launch Utilities mode and press the [HOT CUE] button on the left deck.
+- [HOT CUE] button is lit: Demo mode starts (default).
+- [HOT CUE] button is not lit: Demo mode is switched off.
+
+---
 
 <table>
 <tr>
