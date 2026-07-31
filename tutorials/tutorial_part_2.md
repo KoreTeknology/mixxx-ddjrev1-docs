@@ -10,7 +10,7 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="../images/ddj-rev1_colorBig_v2.png">
 </picture>
 
-# Tutorial Serie: Part 2 - Music Files, Metadata, crates and Playlists
+# Tutorial Serie: Part 2 - The Library
 
 ## Music Files
 
@@ -21,18 +21,13 @@ In this section, we are going to look at the audio and music files stored into y
 
 ## Metadata
 
+Editing metadata can be labourious, because you need to edit manually each files, but once done, the track is ready to be played! Metadata is displayed in Mixxx in large panel. A single left column is showing a list of folders, the right side shows the list of tracks with their data in multiple columns. Columns can be shown independantly.
 
-<table>
-<tr>
-<th align="center", width="880">Library & Playlists</th>
-</tr>
-</table>
 
-### Local Music Store
 
-### Metadata
+### Crates and Playlists
 
-## SQL Database, Backup and Restore
+
 
 ---
 
