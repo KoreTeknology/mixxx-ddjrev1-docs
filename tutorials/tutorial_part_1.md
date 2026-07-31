@@ -81,6 +81,15 @@ Launch Utilities mode and press the [HOT CUE] button on the left deck.
 
 ### Audio Settings
 
+```xml
+<!DOCTYPE SoundManagerConfig>
+<SoundManagerConfig api="Windows DirectSound" deck_count="4" force_network_clock="0" latency="5" samplerate="48000" sync_buffers="2">
+ <SoundDevice name="Altavoces (Realtek(R) Audio)" portAudioIndex="7">
+  <output channel="0" channel_count="2" index="0" type="Master"/>
+ </SoundDevice>
+</SoundManagerConfig>
+```
+
 <table>
 <tr>
 <th align="center", width="880">Library & Playlists</th>
