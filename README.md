@@ -1,11 +1,14 @@
+```py
+MIXXX VERSION: Windows/Linux Release 2.5.6 / 2.6
+PIONEER DDJ-REV1 Firmware: 1.0
+UPDATED: 06/2026 - Languages: EN  
+by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY] 
+```
+
 # MIXXX & DDJ-REV1 Documentation
 
 <img src="https://img.shields.io/badge/DJ-Music-c9c9c9" /> <img src="https://img.shields.io/badge/MIXXX-2.5.6+-orange" /> <img src="https://img.shields.io/badge/DDJ-Rev1-blue" /> <img src="https://img.shields.io/badge/CAN-X.1569D-949885" />
 
-```py
-MIXXX VERSION: Windows/Linux Release 2.5.6 - PIONEER DDJ-REV1 Firmware: 1.0
-UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
-```
 > [!IMPORTANT]
 > THIS PAGE IS ACTUALLY IN MAINTENANCE MODE, CONTENTS MAY BE UNCOMPLETE.  
 > PLEASE, CONTACT ME IF YOU NEED MORE INFORMATIONS ABOUT IT.
@@ -20,15 +23,16 @@ Follow my complete documentation and tutorials into the [Wiki pages](https://git
 
 - Pioneer DDJ-REV1 USB/Midi Controller + USB cable
 - Mini-pc LINUX (with mouse and keyboard) + 22" Touch Screen
-- Mixxx software + Midi mapping files + Skin files
+- Mixxx software + Midi mapping files + Skin files + Fx Config files
 
 ---
 
 ## Tutorials & Workout
 
-- **Part. 1:** [Setup, Config files, Library & Playlists, SQL Database, Backup and Restore](tutorials/Part_1.md)
-- **Part. 2:** [Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls]()
-- **Part. 3:** [Pad-sets, samplers, scratch banks & extra features]()
+- **Part 1:** [Setup, Config files, Library & Playlists, SQL Database, Backup and Restore](tutorials/Part_1.md)
+- **Part 2:** [Play Decks, Loops & Cue Points, Gains & EQs, Fx & Filter controls](tutorials/Part_2.md)
+- **Part 3:** [Pad-sets, samplers, scratch banks & extra features](tutorials/Part_3.md)
+- **Part 4:** [Mix Techniques, Dj combos, Modding](tutorials/Part_4.md)
 
 ---
 
@@ -78,8 +82,9 @@ Mixxx is free open-source software and entirely community-driven. There is no co
 
 ## :radio_button: Files in the package
 
-- **Midi Mapping for DDJ REV1**: made by AKOI
-- **DDJ REV! Skin**: made by me
+- **Custom Midi Mapping set for DDJ REV1**: Original release by AKOI
+- **Custom DDJ REV! Protector Skin**: made by me
+- **Custom DDJ REV! Mixxx Skin**: made by me
 - **This documentation**: PDF File
 - **Full Documentation & tutorials**: PDF File
 
