@@ -23,8 +23,8 @@ In this section, we are going to look at the pre-requisites and operations neede
 3. Crossfader Cut Lag
 4. Demo mode
 
-<img alt="ddjrev1_top" src="../images/ddjrev1_hardwareGui.png">
-
+<!--<img alt="ddjrev1_top" src="../images/ddjrev1_hardwareGui.png">-->
+<!-- NEW MOD PICTURE SWAP -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../images/ddjrev1_hardwareGui.png">
   <source media="(prefers-color-scheme: light)" srcset="../images/ddj-rev1_colorBig_v2.png">
