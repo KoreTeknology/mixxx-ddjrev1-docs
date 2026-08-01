@@ -46,6 +46,8 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 - **Part 7:** [Hardware Modding, Transport options](tutorials/tutorial_part_7.md)
 - **Part 8:** [GUI Design and skinning](tutorials/tutorial_part_8.md)
 
+$\color{orange}{test}$
+
 ---
 
 <table>
