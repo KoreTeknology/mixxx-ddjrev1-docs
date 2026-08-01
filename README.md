@@ -44,8 +44,8 @@ by Uriel Deveaud [AK25 / NR / KORE-TEKNOLOGY]
 - **Part 5:** [Pad-sets, Loops, samplers, scratch banks & extra features](tutorials/tutorial_part_5.md)  
 - **Part 6:** [Mix Techniques, Dj combos, Beat grids](tutorials/tutorial_part_6.md)
 - **Part 7:** [Hardware Modding, Transport options](tutorials/tutorial_part_7.md)
-- **Part 8:** [GUI skinning](tutorials/tutorial_part_8.md)
-- 
+- **Part 8:** [GUI Design and skinning](tutorials/tutorial_part_8.md)
+
 ---
 
 <table>
