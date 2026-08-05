@@ -27,11 +27,20 @@ In this section, we are going to look at the audio and music files stored into y
 
 Editing metadata can be labourious, because you need to edit manually each files, but once done, the track is ready to be played! Metadata is displayed in Mixxx in large panel. A single left column is showing a list of folders, the right side shows the list of tracks with their data in multiple columns. Columns can be shown independantly.
 
+| ID | Name | Content |
+| --- | --- | --- |
+| **title** | **Track Title Name*** |**the name of the track** |
+| **album** | **Album Name** |**the name of the record** |
+| **author** | **Author Name** |**the name of the author** |
+| **...** | **...** |**...** |
+| **%REPLAYGRAIN_TRACK_GAIN%** | **Replay Track gain** |**the volume of the played track** |
+
+
 
 
 ### Crates and Playlists
 
-
+Once your files are edited and stored on your drive, it is time to think about crates and playlists. Both types are used in different manners. Let´s check this out. Primary, crates can be used to collect tracks by categories or artists.
 
 ---
 
