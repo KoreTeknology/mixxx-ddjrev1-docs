@@ -12,16 +12,13 @@ UPDATED 06/2026 - by Uriel Deveaud [AK25 / The Skywatchers / NR] - Languages: EN
 
 # Tutorial Serie: Part 1
 
-
-
-
 ## Initial Setup
 
 In this section, we are going to look at the pre-requisites and operations needed in order to use the combo DDJ-Rev1/Mixxx. Let´s turn on each component and start by connecting each devices physically. We are using 2 AC plugs as power supply unit, one is for the screen, the other for the mini-pc. Then we are connecting the HDMI plug to the screen and mini-pc and the USB cable for the midi controller. That´s all!  
 
 <table>
 <tr>
-<th align="center", width="880">Advanced Setup</th>
+<th align="center", width="880">Hardware Advanced Setup</th>
 </tr>
 </table>
 
@@ -88,21 +85,22 @@ Launch Utilities mode and press the [HOT CUE] button on the left deck.
   <output channel="0" channel_count="2" index="0" type="Master"/>
  </SoundDevice>
 </SoundManagerConfig>
+
 ```
 
-<table>
-<tr>
-<th align="center", width="880">Library & Playlists</th>
-</tr>
-</table>
+### Library Settings
 
-### Local Music Store
+---
 
-The key of success for any DJs, is to own a clean and organized library.
+### Controller Settings
 
-### Metadata
+---
 
-## SQL Database, Backup and Restore
+### Interface & Skin Settings
+
+--
+
+
 
 ---
 
